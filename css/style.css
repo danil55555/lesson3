@@ -1,0 +1,49 @@
+header{
+	width: 100%;
+	min-height: 150px;
+	border: 1px solid #000;
+	margin: 0 auto;
+
+}
+main{
+	width: 80%;
+	min-height: 350px;
+	border: 1px solid #000;
+	margin: 0 auto;
+
+}
+footer{
+
+	width: 60%;
+	min-height: 100px;
+	border: 1px solid #000;
+	margin: 0 auto;
+
+}
+.t1{
+	font-size: 36px;
+	border: 1px solid #000;
+	margin: 25px;
+	padding: 10px;
+
+
+
+}
+.t2{
+	width: 400px;
+	margin: 6px auto;
+	background:#E92323; 
+	margin: 20px;
+	padding: 40px;
+
+
+
+}
+
+#i1{
+
+	border: 10px double cyan;
+
+
+}
+
